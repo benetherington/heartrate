@@ -1,0 +1,6 @@
+.vscode/**
+graphics/**
+parallax-demo/**
+server/**
+arduino-timer.h
+workspace.code-workspace
